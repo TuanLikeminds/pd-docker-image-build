@@ -1,0 +1,12 @@
+ID=00463195
+Product=PingDirectory
+Version=9.0
+EnforcementType=3
+Tier=Free
+IssueDate=2023-03-13
+ExpirationDate=2024-03-11
+DeploymentMethod=Traditional
+Organization=LikeMinds Consulting Inc
+Name=PingDirectory-9.0-Development
+SignCode=FF03
+Signature=302D0215008A28CB4369FE87424184BEC7C6A0918DE39E0F630214790980091D7082F722D1EEC30F5FD393DA6AF21F

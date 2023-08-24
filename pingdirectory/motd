@@ -1,7 +1,7 @@
 
                      PLEASE NOTE
 
-The server profile utilized to configure this Ping Identity Docker Image is tailored for TELUS organization's production use. This configuration has been optimized for operational readiness and security compliance. It is imperative that this configuration is solely injected into the Docker image and not sourced from any external repositories, such as GitHub. The provided profile contains the appropriate keys and credentials necessary for production deployment, ensuring a robust and secure setup aligned with TELUS's standards and requirements. Any issues or errors that arise with the use of this image should be immediately reported the the Workforce Identity Team.
+The server profile utilized to configure this Ping Identity Docker Image is tailored for TELUS organization's production use. This configuration has been optimized for operational readiness and security compliance. It is imperative that this configuration is solely injected into the Docker image and not sourced from any external repositories, such as GitHub. The provided profile contains the configuration necessary for production deployment, ensuring a robust and secure setup aligned with TELUS's standards and requirements. Any issues or errors that arise with the use of this image should be immediately reported the the Workforce Identity Team.
 
 
 

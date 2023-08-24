@@ -12,7 +12,7 @@
 #   export NAME=${NAME:=myDefaultValue}  # Sets to string of "myDefaultValue"
 #   export NAME=${NAME:-OTHER_VAR}       # Sets ot value of OTHER_VAR variable
 #
-#This is a tesssssssssssssst
+#This is a tesssssssssssssst of aug19
 export PD_DELEGATOR_PUBLIC_HOSTNAME=${PD_DELEGATOR_PUBLIC_HOSTNAME:=localhost}
 export PD_DELEGATOR_PUBLIC_PORT_HTTPS=${PD_DELEGATOR_PUBLIC_PORT_HTTPS:=6443}
 export PF_ENGINE_PRIVATE_HOSTNAME=${PF_ENGINE_PRIVATE_HOSTNAME:=pingfederate}
